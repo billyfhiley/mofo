@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add docstrings to new HUB functions (#7576)
